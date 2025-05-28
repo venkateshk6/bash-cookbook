@@ -11,7 +11,7 @@
 
 source ./utils.sh
 
-ACCOUNT_ID=$(get_account_id)
+ACCOUNT_ID="211125351227"
 log_info "Checking untagged resources for AWS Account: $ACCOUNT_ID"
 echo "------------------------------------------"
 
